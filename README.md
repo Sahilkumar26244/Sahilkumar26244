@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/@sahilkr26244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sahilkr26244" height="30" width="40" /></a>
 <a href="https://twitter.com/@sahilku02860412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sahilku02860412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-kumar-923694233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil kumar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sahilkumar26244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sahilkumar26244" height="30" width="40" /></a>
 </p>
 
